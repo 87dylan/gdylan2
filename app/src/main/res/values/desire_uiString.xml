@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string name="album_name_desire">Album Name: Desire</string>
+    <string name="release_date_5_01_1976">Release Date: 5/01/1976</string>
+    <string name="hurricane">hurricane</string>
+    <string name="isis">isis</string>
+    <string name="mozambique">mozambique</string>
+    <string name="one_more_cup_of_coffee_valley_below">one more cup of coffee( valley below)</string>
+    <string name="oh_sister_desire">oh, sister</string>
+    <string name="joey">joey</string>
+    <string name="romance_in_durango">romance in durango</string>
+    <string name="black_diamond_bay">black diamond bay</string>
+    <string name="sara">sara</string>
+
+    <string name="isis_title">Isis</string>
+    <string name="hurricane_title">Hurricane</string>
+    <string name="mozambique_title">Mozambique</string>
+    <string name="one_more_cup_of_coffee_valley_below_title">One More Cup Of Coffee (Valley Below)</string>
+    <string name="joey_title">Joey</string>
+    <string name="romance_in_durango_title">Romance In Durango</string>
+    <string name="black_diamond_title">Black Diamond Bay</string>
+    <string name="sara_title">Sara</string>
+    <string name="oh_sister_desire_title">Oh, sister</string>
+
+
+
+
+
+
+</resources>

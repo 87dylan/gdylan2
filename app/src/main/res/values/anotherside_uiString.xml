@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chimes_of_freedom">chimes of freedom</string>
+    <string name="spanish_harlem_incident">spanish harlem incident</string>
+    <string name="all_i_really_want_to_do">all i really want to do</string>
+    <string name="black_crow_blues">black crow blues</string>
+    <string name="to_ramona">to ramona</string>
+    <string name="motorpsycho_nightmare">motorpsycho nightmare</string>
+    <string name="my_black_pages">my black pages</string>
+    <string name="i_dont_believe_you">i dont believe you</string>
+    <string name="balad_in_plain_d">balad in plain D</string>
+    <string name="it_ain_t_me_babe">it ain\'t me , babe</string>
+    <string name="anothersideofdylan_img">anothersideofdylan_img</string>
+    <string name="album_name_another_side_of_bob_dylan">Album Name: Another Side Of Bob Dylan</string>
+    <string name="release_date_05_01_1964">Release Date: 05/01/1964</string>
+
+
+    <string name="all_i_really_want_to_do_title">All I Really Want To Do</string>
+    <string name="black_crow_blues_title">Black Crow Blues</string>
+    <string name="spanish_harlem_incident_title">Spanish Harlem Incident</string>
+    <string name="i_shall_be_free_no_10_title">I Shall Be Free no.10</string>
+    <string name="my_black_pages_title">My Black Pages</string>
+    <string name="i_don_t_believe_you_title">I Don\'t Believe You</string>
+    <string name="motorpsycho_nightmare_title">Motorpsycho Nightmare</string>
+    <string name="to_romana_title">To Romana</string>
+    <string name="chimes_of_freedom_title">Chimes Of Freedom</string>
+    <string name="ballad_in_plain_d_title">Ballad In Plain D</string>
+    <string name="it_ain_t_me_babe_titke">It Ain\'t Me, Babe</string>
+
+</resources>

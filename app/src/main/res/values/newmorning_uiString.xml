@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="winterlude">winterlude</string>
+    <string name="went_to_see_the_gypsy">went to see the gypsy</string>
+    <string name="time_passes_slowly">time passes slowly</string>
+    <string name="day_of_the_locusts">day of the locusts</string>
+    <string name="if_not_for_you">if not for you</string>
+    <string name="release_date_21_10_1970">Release Date: 21/10/1970</string>
+    <string name="album_name_new_morning">Album Name: New Morning</string>
+    <string name="if_dogs_run_free">if dogs run free</string>
+    <string name="new_morning">new morning</string>
+    <string name="sign_on_the_window">sign on the window</string>
+    <string name="one_more_weekend">one more weekend</string>
+    <string name="the_man_in_me">the man in me</string>
+    <string name="three_angels">three angels</string>
+    <string name="father_of_night">father of night</string>
+
+    <string name="sign_on_the_window_title">Sign On The Window</string>
+    <string name="one_more_weekend_titke">One More Weekend</string>
+    <string name="the_man_in_me_title">The Man In Me</string>
+    <string name="three_angels_title">Three Angels</string>
+    <string name="father_of_the_night_title">Father Of The Night</string>
+    <string name="day_of_the_locust_title">Day Of The Locust</string>
+    <string name="if_dogs_run_free_title">If Dogs Run Free</string>
+    <string name="if_not_for_you_title">If Not For You</string>
+    <string name="new_morning_title">New Morning</string>
+    <string name="time_passes_slowly_title">Time Passes Slowly</string>
+    <string name="winterlude_title">Winterlude</string>
+    <string name="went_to_see_the_gypsy_title">Went To See The Gypsy</string>
+
+
+</resources>

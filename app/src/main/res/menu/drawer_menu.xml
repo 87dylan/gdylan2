@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <group
+    android:id="@+id/g1"
+    android:checkableBehavior="single"
+     android:visible="true">
+    <item
+        android:enabled="true"
+        android:title="General"
+        android:id="@+id/generaltitle"
+        android:visible="true">
+        <menu>
+                <item
+                    android:id="@+id/home"
+                    android:icon="@drawable/ic_baseline_home_24"
+                    android:title="home" />
+                <item
+                    android:id="@+id/bio"
+                    android:icon="@drawable/ic_baseline_info_24"
+                    android:title="bob dylan" />
+
+            <item
+                android:id="@+id/fav"
+                android:icon="@drawable/ic_baseline_favorite_24"
+                android:title="your favourite" />
+
+            </menu>
+    </item>
+
+ </group>
+
+    <group
+        android:id="@+id/g2"
+        android:checkableBehavior="single"
+        android:visible="true">
+    <item
+        android:enabled="true"
+        android:title="Support us"
+        android:id="@+id/supportustitle"
+        android:visible="true">
+        <menu>
+            <item
+                android:id="@+id/email"
+                android:icon="@drawable/ic_baseline_email_24"
+                android:title="email" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="share" />
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_baseline_rate_review_24"
+                android:title="rate us" />
+        </menu>
+    </item>
+
+    </group>
+    <group
+        android:id="@+id/g3"
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item android:title="app V.0.1"/>
+    </group>
+</menu>

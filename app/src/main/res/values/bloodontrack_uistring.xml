@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="idiot_wind_blood">idiot wind</string>
+    <string name="you_re_a_big_girl_now_blood">you\'re a big girl now</string>
+    <string name="simple_twist_of_fate">simple twist of fate</string>
+    <string name="tangled_up_in_blue">Tangled up in blue</string>
+    <string name="release_date_20_01_1975">Release Date: 20/01/1975</string>
+    <string name="album_name_blood_on_the_tracks">Album Name: Blood On The Tracks</string>
+    <string name="you_re_gonna_make_me_lonesome_when_you_go">you\'re gonna make me lonesome when you go</string>
+    <string name="meet_me_in_the_morning">meet me in the morning</string>
+    <string name="lily_rosemary_and_the_jack_of_hearts">lily,rosemary and the jack of hearts</string>
+    <string name="if_you_see_her_say_hello">if you see her, say hello</string>
+    <string name="shelter_from_the_strom_blood">shelter from the strom</string>
+    <string name="buckets_of_rain">buckets of rain</string>
+
+
+
+    <string name="meet_me_in_the_morning_title">Meet Me In The Morning</string>
+    <string name="lily_rosemary_and_the_jack_of_hearts_title">Lily, Rosemary And The Jack Of Hearts</string>
+    <string name="if_you_see_her_say_hello_title">If You See Her, Say Hello</string>
+    <string name="shelter_from_the_storm_blood_title">Shelter From The Storm</string>
+    <string name="buckets_of_rain_title">Buckets Of Rain</string>
+    <string name="tangled_up_in_blue_title">Tangled Up In Blue</string>
+    <string name="simple_twist_of_fate_title">Simple Twist Of Fate</string>
+    <string name="you_re_a_big_girl_now_blood_title">You\'re A Big Girl Now</string>
+    <string name="idiot_wind_blood_title">Idiot Wind</string>
+    <string name="you_re_gonna_make_me_lonesome_when_you_go_title">You\'re Gonna Make Me Lonesome When You Go</string>
+
+</resources>

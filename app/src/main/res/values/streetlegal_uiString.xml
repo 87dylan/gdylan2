@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="album_name_street_legal">Album Name: Street Legal</string>
+    <string name="release_date_15_06_1978">Release Date: 15/06/1978</string>
+    <string name="changing_of_the_guards">changing of the guards</string>
+    <string name="new_pony">new pony</string>
+    <string name="no_time_to_think">no time to think</string>
+    <string name="baby_stop_crying">baby, stop crying</string>
+    <string name="is_your_love_in_vain">is your love in vain?</string>
+    <string name="se_or_tales_of_yankee_power">Señor (tales of yankee power)</string>
+    <string name="true_love_tends_to_forget">true love tends to forget</string>
+    <string name="we_better_talk_this_over">we better talk this over</string>
+    <string name="where_are_you_tonight">where are you tonight</string>
+
+
+    <string name="changing_of_the_guards_title">Changing Of The Guards</string>
+    <string name="new_pony_title">New Pony</string>
+    <string name="no_time_to_think_title">No Time To Think</string>
+    <string name="baby_stop_crying_title">Baby Stop Crying</string>
+    <string name="se_or_tales_of_yankee_power_title">Señor (Tales Of Yankee Power)</string>
+    <string name="is_your_love_in_vain_title">Is Your Love In Vain?</string>
+    <string name="true_love_tends_to_forget_title">True Love Tends To Forget</string>
+    <string name="we_better_talk_this_over_title">We Better Talk This Over</string>
+    <string name="where_are_you_tonight_title">Where Are You Tonight?</string>
+
+
+
+</resources>

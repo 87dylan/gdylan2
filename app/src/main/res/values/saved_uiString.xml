@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="release_date_23rd_06_1980">Release Date: 23rd/06/1980</string>
+    <string name="album_name_saved">Album Name: Saved</string>
+
+    <string name="savedsong">saved</string>
+    <string name="a_satisfied_mind">a satisfied mind</string>
+    <string name="covenant_women">covenant man</string>
+    <string name="what_can_i_do_for_you">what can i do for you</string>
+    <string name="solid_rock">solid rock</string>
+    <string name="pressing_on">pressing on</string>
+    <string name="in_the_garden">in the garden</string>
+    <string name="saving_grace">saving grace</string>
+    <string name="are_you_ready">are you ready</string>
+
+    <string name="solid_rock_title">Solid Rock</string>
+    <string name="pressing_on_title">Pressing On</string>
+    <string name="are_you_ready_title">Are You Ready</string>
+    <string name="saving_grace_title">Saving Grace</string>
+    <string name="in_the_garden_title">In The Garden</string>
+    <string name="a_satisfied_mind_title">A Satisfied Mind</string>
+    <string name="covenant_women_title">Covenant Women</string>
+    <string name="saved_song_title">Saved</string>
+    <string name="what_can_i_do_for_you_title">What Can I Do For You</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="album_name_bob_dylan">Album Name:\nBob Dylan</string>
+    <string name="release_date_19_03_1962">Release Date: 19/03/1962</string>
+    <string name="talkin_new_york">talkin\' new york</string>
+    <string name="you_re_no_good">you\'re no good</string>
+    <string name="in_my_time_of_dyin">in my time of dyin\'</string>
+    <string name="man_of_constant_sorrow">man of constant sorrow</string>
+    <string name="fixin_to_die">fixin\' to die</string>
+    <string name="pretty_peggy_o">pretty peggy-o</string>
+    <string name="highway_51">highway 51</string>
+    <string name="gospel_plow">gospel plow</string>
+    <string name="house_of_risin_sun">house of risin\' sun</string>
+    <string name="baby_let_me_follow_you_down">baby,let me follow you down</string>
+    <string name="freight_train_blues">freight train blues</string>
+    <string name="song_to_woody">song to woody</string>
+    <string name="see_that_my_grave_is_kept_clean">see that my grave is kept clean</string>
+
+    <string name="house_of_the_rising_sun_title">House Of The Rising Sun</string>
+    <string name="baby_let_me_follow_you_title">Baby Let Me Follow You</string>
+    <string name="you_are_no_good_title">You Are No Good</string>
+    <string name="talkin_new_york_title">Talkin\' New York</string>
+    <string name="in_my_time_of_dyin_title">In My Time Of Dyin\'</string>
+    <string name="man_of_constant_sorrow_title">Man Of Constant Sorrow</string>
+    <string name="fixin_to_die_title">Fixin\' To Die</string>
+    <string name="pretty_peggy_o_title">Pretty Peggy -O</string>
+    <string name="highway_51_title">Highway 51</string>
+    <string name="gospel_plow_lyrics">Gospel Plow</string>
+    <string name="freight_train_blues_title">Freight Train Blues</string>
+    <string name="song_to_woody_title">Song To Woody</string>
+    <string name="see_that_my_grave_is_kept_clean_title">See That My Grave Is Kept Clean</string>
+
+</resources>

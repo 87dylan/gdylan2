@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="release_date_13_09_1976">Release Date: 13/09/1976</string>
+    <string name="album_name_hard_rain">Album Name: Hard Rain</string>
+    <string name="maggie_s_farm">maggie\'s farm</string>
+    <string name="one_too_many_morning">one too many morning</string>
+    <string name="stuck_inside_of_memphis_blues_again">stuck inside of memphis blues again</string>
+    <string name="oh_sister">oh, sister</string>
+    <string name="lay_lady_lay">lay, lady, lay</string>
+    <string name="shelter_from_the_storm">shelter from the storm</string>
+    <string name="you_re_a_big_gril_now">you\'re a big gril now</string>
+    <string name="i_threw_it_all_away">i threw it all away</string>
+    <string name="idiot_wind">idiot wind</string>
+
+    <string name="i_threw_it_all_away_title">I Threw It All Away</string>
+    <string name="shelter_from_the_storm_title">Shelter From The Storm</string>
+    <string name="you_re_a_big_girl_now_title">You\'re A Big Girl Now</string>
+    <string name="idiot_wind_title">Idiot Wind</string>
+    <string name="one_too_many_mornings_title">One Too Many Mornings</string>
+    <string name="stuck_inside_of_memphis_blues_again_title">Stuck Inside Of Memphis Blues Again</string>
+    <string name="oh_sister_title">Oh , Sister</string>
+    <string name="lay_lady_lay_title">Lay , Lady , Lay</string>
+    <string name="maggie_s_farm_title">maggie\'s farm</string>
+
+</resources>

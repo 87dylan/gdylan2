@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dylan poems</string>
+    <string name="mainhead">Bob Dylan Albums</string>
+    <string name="splashquote">\"I consider myself a poet first \nand a musician second. \nI live like a poet and I\'ll die like a poet\"</string>
+    <string name="namesplash">~Bob Dylan</string>
+
+
+    <string name="title_activity_navgation">navgation</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="bob_dylans_lyrics_casste">bob dylans lyrics</string>
+    <string name="your_favourite_lyrics_banner">your favourite lyrics</string>
+
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blowin_in_the_wind">blowin\' in the wind</string>
+    <string name="girl_from_the_north_country">girl from the north country</string>
+    <string name="release_date_27_05_1963">Release Date: 27/05/1963</string>
+    <string name="album_name_freewheelin_bob_dylan">Album Name: Freewheelin Bob Dylan</string>
+    <string name="masters_of_war">masters of war</string>
+    <string name="down_the_highway">down the highway</string>
+    <string name="bob_dylan_s_blue">bob dylan\'s blue</string>
+    <string name="a_hard_rain_s_a_gonna_fall">a hard rain\'s a-gonna fall</string>
+    <string name="don_t_think_twice_it_s_all_right">don\'t think twice, it\'s all right</string>
+    <string name="bob_dylan_s_dream">bob dylan\'s dream</string>
+    <string name="oxford_town">oxford town</string>
+    <string name="talkin_world_war_three_blues">talkin\' world war three blues</string>
+    <string name="corrina_corrina">corrina ,corrina</string>
+    <string name="honey_just_allow_me_one_more_chance">honey,just allow me one more chance</string>
+    <string name="i_shall_be_free">i shall be free</string>
+
+    <string name="talkin_world_war_three_blues_title">Talkin\' World War Three Blues</string>
+    <string name="corrina_corrina_title">Corrina , Corrina</string>
+    <string name="honey_just_allow_me_one_more_chance_title">Honey , Just Allow Me One More Chance</string>
+    <string name="i_shall_be_free_title">I Shall Be Free</string>
+    <string name="blowin_in_the_wind_title">Blowin In The Wind</string>
+    <string name="girl_from_the_north_country_title">Girl From The North Country</string>
+    <string name="masters_of_war_title">Masters Of War</string>
+    <string name="down_the_highway_title">Down The Highway</string>
+    <string name="bob_dylan_s_blues_title">Bob Dylan\'s Blues</string>
+    <string name="a_hard_rain_s_gonna_fall_title">A Hard Rain\'s Gonna Fall</string>
+    <string name="don_t_think_twice_it_s_all_right_title">Don\'t Think Twice , It\'s All Right</string>
+    <string name="bob_dylans_dream_title">Bob Dylans Dream</string>
+    <string name="oxford_town_title">Oxford Town</string>
+
+
+</resources>

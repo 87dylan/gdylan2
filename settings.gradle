@@ -1,0 +1,2 @@
+rootProject.name='gdylan2'
+include ':app'

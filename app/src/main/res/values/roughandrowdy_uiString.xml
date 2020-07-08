@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="album_name_rough_and_rowdy_ways">Album Name: Rough And Rowdy Ways</string>
+    <string name="releae_date_19_06_2020">Releae Date: 19/06/2020</string>
+
+    <string name="i_ve_made_up_my_mind_to_give_myself_to_you">i\'ve made up my mind to give myself to you</string>
+    <string name="my_own_version_of_you">my own version of you</string>
+    <string name="black_rider">black rider</string>
+    <string name="i_contain_multitudes">i contain multitudes</string>
+    <string name="goodbye_jimmy_reed">goodbye jimmy reed</string>
+    <string name="mother_of_muses">mother of muses</string>
+    <string name="crossing_the_rubicon">crossing the rubicon</string>
+    <string name="key_west_philosopher_pirate">key west ( philosopher pirate)</string>
+    <string name="false_prophet">false prophet</string>
+    <string name="murder_most_foul">murder most foul</string>
+
+
+
+    <string name="i_contain_multitudes_title">I Contain Multitudes</string>
+    <string name="false_prophet_title">False Prophet</string>
+    <string name="my_own_version_of_you_title">My Own Version Of You</string>
+    <string name="i_have_made_up_my_mind_to_give_myself_to_you_title">I Have Made Up My Mind To Give Myself To You</string>
+    <string name="black_rider_title">Black Rider</string>
+    <string name="goodbye_jimmy_reed_title">Goodbye Jimmy Reed</string>
+    <string name="mother_of_muses_title">Mother Of Muses</string>
+    <string name="crossing_the_rubicon_title">Crossing The Rubicon</string>
+    <string name="key_west_title">Key West</string>
+    <string name="murder_most_foul_title">Murder Most Foul</string>
+
+
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="album_name_john_wesley_hardings">Album Name: John Wesley Hardings</string>
+    <string name="release_date_27_12_1967">Release Date: 27/12/1967</string>
+    <string name="john_wesley_hardings">john wesley hardings</string>
+    <string name="as_i_went_out_one_morning">as i went out one morning</string>
+    <string name="i_dreamed_i_saw_st_augustine">i dreamed i saw st.augustine</string>
+    <string name="all_along_the_watch_tower">all along the watch tower</string>
+    <string name="the_ballad_of_frankie_lee_and_judas_priest">the ballad of frankie lee and judas priest</string>
+    <string name="drifter_s_escape">drifter\'s escape</string>
+    <string name="dear_landlord">dear landlord</string>
+    <string name="i_am_a_lonesome_hobo">i am a lonesome hobo</string>
+    <string name="i_pity_the_poor_immigrant">i pity the poor immigrant</string>
+    <string name="the_wicked_messenger">the wicked messenger</string>
+    <string name="down_along_the_cove">down along the cove</string>
+    <string name="i_ll_be_your_baby_tonight">i\'ll be your baby tonight</string>
+
+    <string name="i_ll_be_your_baby_tonight_title">I\'ll Be Your Baby Tonight</string>
+    <string name="john_wesley_hardings_title">John Wesley Hardings</string>
+    <string name="the_wicked_messenger_title">The Wicked Messenger</string>
+    <string name="down_along_the_cove_title">Down Along The Cove</string>
+    <string name="drifters_escape_title">Drifters Escape</string>
+    <string name="all_along_the_watchtower_title">All Along The Watchtower</string>
+    <string name="the_ballad_of_frankie_lee_and_judas_priest_title">The Ballad Of Frankie Lee And Judas Priest</string>
+    <string name="dear_landlord_title">Dear Landlord</string>
+    <string name="as_i_went_out_one_morning_title">As I Went Out One Morning</string>
+    <string name="i_dreamed_i_saw_st_augustine_title">I Dreamed I Saw St.Augustine</string>
+    <string name="i_pity_the_poor_immigrant_title">I Pity The Poor Immigrant</string>
+    <string name="i_am_a_lonesome_hobo_title">I Am A Lonesome Hobo</string>
+
+
+</resources>

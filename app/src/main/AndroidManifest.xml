@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gdylan2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_bobdylan"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_bobdylan_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".mudermostfoul"></activity>
+        <activity android:name=".keywest" />
+        <activity android:name=".crossingtherubicon" />
+        <activity android:name=".motherofmuses" />
+        <activity android:name=".goodbyejimmyreed" />
+        <activity android:name=".blackrider" />
+        <activity android:name=".ivemadeupmymind" />
+        <activity android:name=".myownversionofyou" />
+        <activity android:name=".falseprophet" />
+        <activity android:name=".icontainmultitudes" />
+        <activity android:name=".dontfallapartonme" />
+        <activity android:name=".iandi" />
+        <activity android:name=".unionsundown" />
+        <activity android:name=".manofpeace" />
+        <activity android:name=".licensetokill" />
+        <activity android:name=".neighborhoodbully" />
+        <activity android:name=".sweetheartlikeyou" />
+        <activity android:name=".jokerman" />
+        <activity android:name=".highlands" />
+        <activity android:name=".cantwait" />
+        <activity android:name=".makeyoufeelmylove" />
+        <activity android:name=".coldironbounds" />
+        <activity android:name=".notdarkyet" />
+        <activity android:name=".tillifellinlovewithyou" />
+        <activity android:name=".tryintogettoheaven" />
+        <activity android:name=".millionmiles" />
+        <activity android:name=".standinginthedoorway" />
+        <activity android:name=".dirtroadblues" />
+        <activity android:name=".lovesick" />
+        <activity android:name=".roughandrowdyways" />
+        <activity android:name=".infedels" />
+        <activity android:name=".timeoutofmind" />
+        <activity android:name=".areyouready" />
+        <activity android:name=".savinggrace" />
+        <activity android:name=".inthegarden" />
+        <activity android:name=".pressingon" />
+        <activity android:name=".solidrock" />
+        <activity android:name=".whatcanidoforyou" />
+        <activity android:name=".covenantwomen" />
+        <activity android:name=".savedsong" />
+        <activity android:name=".asatsisfiedmind" />
+        <activity android:name=".saved" />
+        <activity android:name=".fatherofthenight" />
+        <activity android:name=".threeangels" />
+        <activity android:name=".themaninme" />
+        <activity android:name=".onemoreweekend" />
+        <activity android:name=".signonthewindow" />
+        <activity android:name=".newmorningsong" />
+        <activity android:name=".ifdogsrunfree" />
+        <activity android:name=".winterlude" />
+        <activity android:name=".wenttoseethegypsy" />
+        <activity android:name=".timepassesslowly" />
+        <activity android:name=".dayofthelocust" />
+        <activity android:name=".ifnotforyou" />
+        <activity android:name=".main2" />
+        <activity android:name=".bucketsofrain" />
+        <activity android:name=".shelterfromthestorm_bloodontracks" />
+        <activity android:name=".ifyouseehersayhello" />
+        <activity android:name=".lilyrosemaryandthejackofhearts" />
+        <activity android:name=".meetmeinthemorning" />
+        <activity android:name=".youaregonnamakemelonesome" />
+        <activity android:name=".idiotwind_bloodontracks" />
+        <activity android:name=".youareabiggirlnow_bloodontracks" />
+        <activity android:name=".simpletwistoffate" />
+        <activity android:name=".tangledupinblue" />
+        <activity android:name=".bloodonthetracks" />
+        <activity android:name=".newmorning" />
+        <activity android:name=".dashboard" />
+        <activity android:name=".sara" />
+        <activity android:name=".contentview" />
+        <activity
+            android:name=".blackdiamond"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".romanceindurango"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".joey"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ohsisterdesire"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".onemorecupofcoffee"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mozambique"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".isis"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".hurricane"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".desire"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".layladylaynashville"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tonightillbestayinhere"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".countrypie"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tellmethatitisnttrue"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".onemorenight"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".peggydays"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tobealonewithyou"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".itthrewitallaway_nashville"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".nashvilleskylinerag"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".girlfromthenorthcountry_nashville"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".nashvilleskyline"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".gonchangemywayofthinkingalternate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".rollonjohn"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tempestsong"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tinangel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".earlyromankings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".scarlettown"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".payinblood"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".longandwastedyears"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".narrowway"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".soonaftermidnight"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".duquesnewhistle"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tempest"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".slowtrainsong"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".whenhereturns"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mangavenametoalltheanimal"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".whenyougonnawakeup"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dorighttomebaby"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".gonnachangemywayofthinking"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".slowtrain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ibelieveinyou"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".preciousangel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".gottaservesomebody"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".whereareyoutonight"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".webettertalkthisover"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".truelovetendstoforget"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".isyourloveinvain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".senor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".babystopcrying"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".notimetothink"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".newpony"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".changingotheguard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".streetlegal"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".onetoomanymorning_timeschange"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".restlessfarewell"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".thelonesomedeathofhatti"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".whenthesipcomesin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bootsofspanishleather"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".onlyapawnintheirgame"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".northcountryblues"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".withgodonourside"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".balladofhollisbrown"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".thetimestheyarechangingsong"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".thetimestheyarechanging"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".everygrainofsand"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".trouble"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".inthesummertime"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".deadman"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".thegroomstillwaiting"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".watereddownlove"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".lennybruce"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".propertyofjesus"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".heartofmine"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".shotoflovesong"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".shotoflove"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".illbeyourbabytonight"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".downalongthecove"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".thewickedmessenger"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ipitythepoorimmigrant"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".iamalonesomehobo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dearlandlord"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".driftersescape"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".theballadoffrankielee"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".allalongthewatchtower"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".idreamedisawstaugustine"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".asiwentoutonemorning"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".johnwesleyhardingsong"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".johnwesleyhardings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".desolationrow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".justlketomthumbs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".highway61song"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".queenjaneapprox"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".balladofathinman"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".fromabuick6"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ittakesalottolaugh"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tombstoneblues"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".likearollingstone"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".highway61revisited"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ishallbefreefreewheelin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".honeyjustallowme"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".corrinacorrina"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".talkingworldwarthree"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oxfordtown"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bobdylansdreamfreewheelin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dontthinktwiceitsallright"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ahardrainsgonnafall"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bobdylansblues"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".downthehighway"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mastersofwar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".girlfromnorthcountry"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".blowinginthewind"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".freewheelinbobdylan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".itsallovernowbaby"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".itsallrightma"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".gatesofeden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mrtambourineman"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bobdylansdream"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ontheroadagain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".outlawblues"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".loveminuszero"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maggiesfarmbringingit"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".shebelongtome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".subtarraneanhomesick"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bringingitallback"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".idiotwind"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ithrewitallaway"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".youareabigirlnow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".shelterfromthestorm"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".layladylay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ohsister"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".stuckmemphishardrain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".onetoomanymorning"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maggiesfarm"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".hardrain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".seethatmygrave"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".songtowoody"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".freighttrainblues"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".houseofrisingsun"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".babyletmefollowyou"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".gospelplow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".highway51"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".prettypeggy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".fixingtodie"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".inmytimeofdying"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".manofcontantsorrow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".talkingnewyork"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".youarenogood"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bobdylan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".itaintmebabe"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".balladind"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".idontbelieveyou"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".myblackpages"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".motorpsycho"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".toromana"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ishallbefree"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".chimesoffreedom"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".spanishharlem"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".blackcrowblues"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".allireallywantodo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".anotherside"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Obviously5Believer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".fourthtimearound"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AbsolutelySweetMarie"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".temporarylikeachiles"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mostlikelyyougo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".justlikeawomen"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".leopardskin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".stuckinside"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".iwantyou"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oneofusmustknow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".visionsofjoana"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pledggingmytime"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".rainyday_women"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sadeyelady"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".blonde"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

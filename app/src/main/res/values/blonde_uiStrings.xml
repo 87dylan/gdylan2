@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="albumname">Album Name: Blonde On Blonde</string>
+    <string name="releasedate">Release Date: 20/06/1966</string>
+    <string name="rainydaywomen">Rainy day women</string>
+    <string name="pledging_my_time">pledging my time</string>
+    <string name="visions_of_johanna">Visions of johanna</string>
+    <string name="one_of_us_must_know">One of us must know</string>
+    <string name="i_want_you">I want you</string>
+    <string name="stuck_inside_of_mobile_with_memphis_blues_again">Stuck inside of mobile with memphis blues again</string>
+    <string name="lepard_skin_pill_box_hat">Lepard-skin pill box hat</string>
+    <string name="just_like_a_women">Just like a women</string>
+    <string name="most_likely_you_go_your_way_i_go_mine">most likely you go your way(i go mine)</string>
+    <string name="temporary_like_achiles">Temporary like achiles</string>
+    <string name="absolutely_sweet_marie">Absolutely sweet marie</string>
+    <string name="_4th_time_around">4th time around</string>
+    <string name="obviously_5_believers">Obviously 5 believers</string>
+    <string name="sad_eyed_lady_of_the_lowlands">Sad eyed lady of the lowlands</string>
+    <string name="blondecover_img">blondecover</string>
+
+
+    <string name="sadeyetitle"> Sad Eyed lady of the Lowlands</string>
+    <string name="rainy_day_women_title">Rainy Day Women </string>
+    <string name="titlepledging">Pledging My Time</string>
+    <string name="visionsofjohannatitle">Visions Of Johanna</string>
+    <string name="oneofustitle">One Of Us Must Know</string>
+    <string name="iwantyoutitle">I Want You</string>
+    <string name="stuckinsidetitle">Stuck Inside Of Mobile With The Memphis Blues Again</string>
+    <string name="leopardskin_title">Leopard-skin Pill-box Hat</string>
+    <string name="justlikeawomentitle">Just Like A Women</string>
+    <string name="most_likely_you_go_your_way_title">Most Likely You Go Your Way</string>
+    <string name="temporary_like_achiles_title">Temporary Like Achiles</string>
+    <string name="absolutely_sweet_marie_title">Absolutely Sweet Marie</string>
+    <string name="_4th_time_around_title">Fourth Time Around</string>
+    <string name="obviously_five_believer_title">Obviously Five Believer</string>
+
+</resources>

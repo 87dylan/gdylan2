@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="album_name_highway_61_revisited">Album Name: Highway 61 Revisited</string>
+    <string name="release_date_30_08_1965">Release Date: 30/08/1965</string>
+    <string name="like_a_rolling_stone">like a rolling stone</string>
+    <string name="tombstone_blues">tombstone blues</string>
+    <string name="it_takes_a_lot_to_laugh_it_takes_a_train_to_cry">it takes a lot to laugh , it takes a train to cry</string>
+    <string name="from_a_buick_6">from a buick 6</string>
+    <string name="ballad_of_a_thin_man">ballad of a thin man</string>
+    <string name="queen_jane_approximately">queen jane approximately</string>
+    <string name="highway_61_revisited">highway 61 revisited</string>
+    <string name="just_like_tom_thumb_s_blues">just like tom thumb\'s blues</string>
+    <string name="desolation_row">desolation row</string>
+
+    <string name="ballad_of_a_thin_man_title">Ballad Of A Thin Man</string>
+    <string name="highway_61_revisited_title">Highway 61 Revisited</string>
+    <string name="just_like_tom_thumb_s_blues_title">Just Like Tom Thumb\'s Blues</string>
+    <string name="desolation_row_title">Desolation Row</string>
+    <string name="like_a_rolling_stone_title">Like A Rolling Stone</string>
+    <string name="tombstone_blues_title">Tombstone Blues</string>
+    <string name="queen_jane_approximately_title">Queen Jane Approximately</string>
+    <string name="from_a_buick_6_title">From A Buick 6</string>
+    <string name="it_takes_a_lot_to_laugh_it_takes_a_train_to_cry_title">It Takes A Lot To Laugh, It Takes A Train To Cry</string>
+
+
+
+
+</resources>

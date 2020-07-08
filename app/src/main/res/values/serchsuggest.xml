@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- anotherside-->
+
+    <string-array name="querry_suggestion">
+        <item>Another Side Of Bob Dylan: Album</item>
+        <item>All I Really Want To Do</item>
+        <item>Black Crow Blues</item>
+    <item>Spanish Harlem Incident</item>
+    <item>I Shall Be Free no.10</item>
+    <item>My Black Pages</item>
+    <item>I Don\'t Believe You</item>
+    <item>Motorpsycho Nightmare</item>
+    <item>To Romana</item>
+    <item>Chimes Of Freedom</item>
+    <item>Ballad In Plain D</item>
+    <item>It Ain\'t Me, Babe</item>
+
+
+        <!--blonde-->
+
+        <item>Blonde On Blonde :Album</item>
+    <item>Sad Eyed lady of the Lowlands</item>
+    <item>Rainy Day Women </item>
+    <item>Pledging My Time</item>
+    <item>Visions Of Johanna</item>
+    <item>One Of Us Must Know</item>
+    <item>I Want You</item>
+    <item>Stuck Inside Of Mobile With The Memphis Blues Again</item>
+    <item>Leopard-skin Pill-box Hat</item>
+    <item>Most Likely You Go Your Way</item>
+    <item>Just Like A Women</item>
+    <item>Temporary Like Achiles</item>
+    <item>Absolutely Sweet Marie</item>
+    <item>Fourth Time Around</item>
+    <item>Obviously Five Believer</item>
+
+        <!--blood ontrack-->
+
+<item>Blood On The Tracks: Album</item>
+    <item>Meet Me In The Morning</item>
+    <item>Lily, Rosemary And The Jack Of Hearts</item>
+    <item>If You See Her, Say Hello</item>
+    <item>Shelter From The Storm</item>
+    <item>Buckets Of Rain</item>
+    <item>Tangled Up In Blue</item>
+    <item>Simple Twist Of Fate</item>
+    <item>You\'re A Big Girl Now</item>
+    <item>Idiot Wind</item>
+        <item>You\'re Gonna Make Me Lonesome When You Go</item>
+
+
+        <!--bobdylan-->
+
+
+        <item>Bob Dylan: Album</item>
+    <item>House Of The Rising Sun</item>
+    <item>Baby Let Me Follow You</item>
+    <item>You Are No Good</item>
+    <item>Talkin\' New York</item>
+    <item>In My Time Of Dyin\'</item>
+    <item>Man Of Constant Sorrow</item>
+    <item>Fixin\' To Die</item>
+    <item>Pretty Peggy -O</item>
+    <item>Highway 51</item>
+    <item>Gospel Plow</item>
+    <item>Freight Train Blues</item>
+    <item>Song To Woody</item>
+    <item>See That My Grave Is Kept Clean</item>
+
+
+        <!--bringing it all back-->
+
+        <item>Bringing It All Back: Album</item>
+    <item>Gates Of Eden</item>
+    <item>Its Alright , Ma</item>
+    <item>Its All Over Now Baby Blue</item>
+    <item>Maggie Farm</item>
+    <item>Love Minus Zero</item>
+    <item>Outlaw Blues</item>
+    <item>On The Road Again</item>
+    <item>Bob Dylan\'s 115th Dream</item>
+    <item>Mr.Tambourine Man</item>
+    <item>Subterranean Homesick Blue</item>
+    <item>She Belong To Me</item>
+
+
+
+        <!--desire-->
+
+        <item>Desire: Album</item>
+    <item>Isis</item>
+    <item>Hurricane</item>
+    <item>Mozambique</item>
+    <item>One More Cup Of Coffee (Valley Below)</item>
+    <item>Joey</item>
+    <item>Romance In Durango</item>
+    <item>Black Diamond Bay</item>
+    <item>Sara</item>
+    <item>Oh, sister</item>
+
+
+        <!--freewheelin-->
+
+        <item>Freewheelin Bob Dylan: Album</item>
+    <item>Talkin\' World War Three Blues</item>
+    <item>Corrina , Corrina</item>
+    <item>Honey , Just Allow Me One More Chance</item>
+    <item>I Shall Be Free</item>
+    <item>Blowin In The Wind</item>
+    <item>Girl From The North Country</item>
+    <item>Masters Of War</item>
+    <item>Down The Highway</item>
+    <item>Bob Dylan\'s Blues</item>
+    <item>A Hard Rain\'s Gonna Fall</item>
+    <item>Don\'t Think Twice , It\'s All Right</item>
+    <item>Bob Dylans Dream</item>
+    <item>Oxford Town</item>
+
+
+        <!--hardrain-->
+
+        <item>Hard Rain: Album</item>
+    <item>I Threw It All Away</item>
+    <item>Shelter From The Storm</item>
+    <item>You\'re A Big Girl Now</item>
+    <item>Idiot Wind</item>
+    <item>One Too Many Mornings</item>
+    <item>Stuck Inside Of Memphis Blues Again</item>
+    <item>Oh , Sister</item>
+    <item>Lay , Lady , Lay</item>
+    <item>maggie\'s farm</item>
+
+        <!--highway61-->
+
+        <item>Highway 61 Revisited: Album</item>
+    <item>Ballad Of A Thin Man</item>
+    <item>Highway 61 Revisited</item>
+    <item>Just Like Tom Thumb\'s Blues</item>
+    <item>Desolation Row</item>
+    <item>Like A Rolling Stone</item>
+    <item>Tombstone Blues</item>
+    <item>Queen Jane Approximately</item>
+    <item>From A Buick 6</item>
+    <item>It Takes A Lot To Laugh, It Takes A Train To Cry</item>
+
+        <!--jhon wealy-->
+
+        <item>John Wesley Hardings: Album</item>
+        <item>I\'ll Be Your Baby Tonight</item>
+    <item>John Wesley Hardings</item>
+    <item>The Wicked Messenger</item>
+    <item>Down Along The Cove</item>
+    <item>Drifters Escape</item>
+    <item>All Along The Watchtower</item>
+    <item>The Ballad Of Frankie Lee And Judas Priest</item>
+    <item>Dear Landlord</item>
+    <item>As I Went Out One Morning</item>
+    <item>I Dreamed I Saw St.Augustine</item>
+    <item>I Pity The Poor Immigrant</item>
+    <item>I Am A Lonesome Hobo</item>
+
+
+        <!--nashville skyline-->
+
+        <item>Nashville Skyline: Album</item>
+    <item>Girl From The North Country</item>
+    <item>Nashville Skyline Rag</item>
+    <item>I Threw It All Away</item>
+    <item>To Be Alone With You</item>
+    <item>Peggy Days</item>
+    <item>One More Night</item>
+    <item>Tell Me That It Isn\'t True</item>
+    <item>Country Pie</item>
+    <item>Tonight I Will Be Staying Here With You</item>
+    <item>Lay Lady Lay</item>
+
+
+        <!--shotoflove-->
+
+        <item>Shot Of Love: Album</item>
+    <item>The Groom\'s Still Waiting At The Alte</item>
+    <item>In The Summertime</item>
+    <item>Trouble</item>
+    <item>Every Grain Of Sand</item>
+    <item>Shot Of Love</item>
+    <item>Heart Of Mine</item>
+    <item>Property Of Jesus</item>
+    <item>Lenny Bruce</item>
+    <item>Watered-Down Love</item>
+    <item>Dead man, Dead man</item>
+
+
+        <!--slowtrain-->
+
+        <item>Slow Train Coming: Album</item>
+    <item>Do Right To Me</item>
+    <item>When You Gonna Wake Up</item>
+    <item>Man Gave Names To All The Animals</item>
+    <item>When He Returns</item>
+    <item>Slow Train</item>
+    <item>Gonna Change My Of Thinking</item>
+    <item>Precious Angel</item>
+    <item>I Believe In You</item>
+    <item>Gotta Serve Somebody</item>
+    <item>Gonna Change My Way Of Thinking (version 2)</item>
+
+
+        <!--streetlegal-->
+
+        <item>Street Legal: Album</item>
+    <item>Changing Of The Guards</item>
+    <item>New Pony</item>
+    <item>No Time To Think</item>
+    <item>>Baby Stop Crying</item>
+    <item>Señor (Tales Of Yankee Power)</item>
+    <item>Is Your Love In Vain?</item>
+    <item>True Love Tends To Forget</item>
+    <item>We Better Talk This Over</item>
+    <item>Where Are You Tonight?</item>
+
+
+        <!--tempest-->
+
+        <item>Tempest: Album</item>
+    <item>Scarlet Town</item>
+    <item>Early Roman King</item>
+    <item>Tin Angel</item>
+    <item>Tempest</item>
+    <item>Roll On John</item>
+    <item>Duquesne whistle</item>
+    <item>Soon After Midnight</item>
+    <item>Narrow Way</item>
+    <item>Long And Wasted Years</item>
+    <item>Pay In Blood</item>
+
+
+        <!--timestheyarechaging-->
+
+        <item>The Times They Are A-Changing: Album</item>
+    <item>One Too Many Mornings</item>
+        <item>Boots Of Spanish Leather</item>
+        <item>Restless Farewell</item>
+        <item>The Lonesome Death Of Hattie Carroll</item>
+        <item>Ballad Of Hollis Brown</item>
+        <item>When the Ships Comes in</item>
+        <item>North country Blues</item>
+        <item>With God On Our Side</item>
+        <item>The Times They Are A-changing</item>
+        <item>Only A Pawn In Their Game</item>
+
+        <!--new morning-->
+        <item>New Morning: Album</item>
+        <item>Sign On The Window</item>
+        <item>One More Weekend</item>
+        <item>The Man In Me</item>
+        <item>Three Angels</item>
+        <item>Father Of The Night</item>
+        <item>Day Of The Locust</item>
+        <item>If Dogs Run Free</item>
+        <item>If Not For You</item>
+        <item>New Morning</item>
+        <item>Time Passes Slowly</item>
+        <item>Winterlude</item>
+        <item>Went To See The Gypsy</item>
+
+        <!--saved-->
+        <item>Saved: Album</item>
+        <item>Solid Rock</item>
+        <item>Pressing On</item>
+        <item>Are You Ready</item>
+        <item>Saving Grace</item>
+        <item>In The Garden</item>
+        <item>A Satisfied Mind</item>
+        <item>Covenant Women</item>
+        <item>Saved</item>
+        <item>What Can I Do For You</item>
+
+        <!--timeoutofmind-->
+        <item>Time Out Of Mind: Album</item>
+        <item>Can\'t Wait</item>
+        <item>Make You Feel My Love</item>
+        <item>Million Miles</item>
+        <item>Highlands</item>
+        <item>Till I Fell In Love With Yo</item>
+        <item>Not Dark Yet</item>
+        <item>Cold Iron Bound</item>
+        <item>Standing On The Doorway</item>
+        <item>Trying To Get To Heaven</item>
+        <item>Dirt Road Blues</item>
+        <item>Lovesick</item>
+
+        <!--indefels-->
+
+        <item>Infedels: Album</item>
+        <item>Jokerman</item>
+        <item> Sweetheart Like You</item>
+        <item>Neighborhood Bully </item>
+        <item> License To Kill</item>
+        <item> Man Of Peace</item>
+        <item>Union Sundown</item>
+        <item>I And I</item>
+        <item>Don\'t Fall Apart On Me Tonight</item>
+
+        <!--rough and rowdyways-->
+
+        <item>Rough And rowdy Ways: Album</item>
+        <item>I Contain Multitudes</item>
+        <item>False Prophet</item>
+        <item>My Own Version Of You</item>
+        <item>I Have Made Up My Mind To Give Myself To You</item>
+        <item>Black Rider</item>
+        <item>Goodbye Jimmy Reed</item>
+        <item>Mother Of Muses</item>
+        <item>Crossing The Rubicon</item>
+        <item>Key West</item>
+        <item>Murder Most Foul</item>
+
+
+    </string-array>
+</resources>

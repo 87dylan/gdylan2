@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="release_date_30_09_1997">Release Date: 30/09/1997</string>
+    <string name="album_name_time_out_of_mind">Album Name: Time Out Of Mind</string>
+    <string name="million_miles">million miles</string>
+    <string name="standing_in_the_doorway">standing in the doorway</string>
+    <string name="dirt_road_blues">dirt road blues</string>
+    <string name="love_sick">love sick</string>
+    <string name="till_i_fell_in_love_with_you">\'till i fell in love with you</string>
+    <string name="tryin_to_get_to_heaven">tryin\' to get to heaven</string>
+    <string name="not_dark_yet">not dark yet</string>
+    <string name="cold_irons_bound">cold irons bound</string>
+    <string name="make_you_feel_my_love">make you feel my love</string>
+    <string name="can_t_wait">can\'t wait</string>
+    <string name="highlands">highlands</string>
+
+    <string name="can_t_wait_title">Can\'t Wait</string>
+    <string name="make_you_feel_my_love_title">Make You Feel My Love</string>
+    <string name="million_miles_title">Million Miles</string>
+    <string name="highlands_title">Highlands</string>
+    <string name="till_i_fell_in_love_with_you_title">Till I Fell In Love With You</string>
+    <string name="not_dark_yet_title">Not Dark Yet</string>
+    <string name="cold_iron_bound_title">Cold Iron Bound</string>
+    <string name="standing_on_the_doorway_title">Standing On The Doorway</string>
+    <string name="trying_to_get_to_heaven_title">Trying To Get To Heaven</string>
+    <string name="dirt_road_blues_title">Dirt Road Blues</string>
+    <string name="lovesick_title">Lovesick</string>
+
+
+
+
+
+
+
+</resources>

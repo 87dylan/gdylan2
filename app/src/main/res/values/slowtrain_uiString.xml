@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="album_name_slow_train_coming">Album Name: Slow Train Coming</string>
+    <string name="release_date_20_08_1979">Release Date: 20/08/1979</string>
+    <string name="gotta_serve_somebody">gotta serve somebody</string>
+    <string name="precious_angel">precious angel</string>
+    <string name="i_believe_in_you">i believe in you</string>
+    <string name="slow_train">slow train</string>
+    <string name="gonna_change_my_way_of_thinking">gonna change my way of thinking</string>
+    <string name="do_right_to_me_baby_do_onto_theirs">do right to me baby (do onto theirs)</string>
+    <string name="when_you_gonna_wake_up">when you gonna wake up</string>
+    <string name="man_gave_names_to_all_the_animals">man gave names to all the animals</string>
+    <string name="when_he_returns">when he returns</string>
+    <string name="gonna_change_my_way_of_thinking_vesion_2">Gonna change my way of thinking (vesion 2)</string>
+
+
+    <string name="do_right_to_me_title">Do Right To Me</string>
+    <string name="when_you_gonna_wake_up_title">When You Gonna Wake Up</string>
+    <string name="man_gave_names_to_all_the_animals_title">Man Gave Names To All The Animals</string>
+    <string name="when_he_returns_title">When He Returns</string>
+    <string name="slow_train_title">Slow Train</string>
+    <string name="gonna_change_my_of_thinking_title">Gonna Change My Of Thinking</string>
+    <string name="precious_angel_title">Precious Angel</string>
+    <string name="i_believe_in_you_title">I Believe In You</string>
+    <string name="gotta_serve_somebody_title">Gotta Serve Somebody</string>
+    <string name="gonna_change_my_way_of_thinking_version_2_title">Gonna Change My Way Of Thinking (version 2)</string>
+
+</resources>

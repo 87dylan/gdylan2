@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="songclassnames">
+
+        <!-- anotherside-->
+        <item>com.example.gdylan2.anotherside</item>
+        <item>com.example.gdylan2.allireallywantodo</item>
+        <item>com.example.gdylan2.blackcrowblues</item>
+        <item>com.example.gdylan2.spanishharlem</item>
+        <item>com.example.gdylan2.ishallbefree</item>
+        <item>com.example.gdylan2.myblackpages</item>
+        <item>com.example.gdylan2.idontbelieveyou</item>
+        <item>com.example.gdylan2.motorpsycho</item>
+        <item>com.example.gdylan2.toromana</item>
+        <item>com.example.gdylan2.chimesoffreedom</item>
+        <item>com.example.gdylan2.balladind</item>
+        <item>com.example.gdylan2.itaintmebabe</item>
+
+
+
+<!--blonde-->
+        <item>com.example.gdylan2.blonde</item>
+        <item>com.example.gdylan2.sadeyelady</item>
+        <item>com.example.gdylan2.rainyday_women</item>
+        <item>com.example.gdylan2.pledggingmytime</item>
+        <item>com.example.gdylan2.visionsofjoana</item>
+        <item>com.example.gdylan2.oneofusmustknow</item>
+        <item>com.example.gdylan2.iwantyou</item>
+        <item>com.example.gdylan2.stuckinside</item>
+        <item>com.example.gdylan2.leopardskin</item>
+        <item>com.example.gdylan2.mostlikelyyougo</item>
+        <item>com.example.gdylan2.justlikeawomen</item>
+        <item>com.example.gdylan2.temporarylikeachiles</item>
+        <item>com.example.gdylan2.AbsolutelySweetMarie</item>
+        <item>com.example.gdylan2.fourthtimearound</item>
+        <item>com.example.gdylan2.Obviously5Believer</item>
+
+
+<!--blood ontrack-->
+        <item>com.example.gdylan2.bloodonthetracks</item>
+        <item>com.example.gdylan2.meetmeinthemorning</item>
+        <item>com.example.gdylan2.lilyrosemaryandthejackofhearts</item>
+        <item>com.example.gdylan2.ifyouseehersayhello</item>
+        <item>com.example.gdylan2.shelterfromthestorm_bloodontracks</item>
+        <item>com.example.gdylan2.bucketsofrain</item>
+        <item>com.example.gdylan2.tangledupinblue</item>
+        <item>com.example.gdylan2.simpletwistoffate</item>
+        <item>com.example.gdylan2.youareabiggirlnow_bloodontracks</item>
+        <item>com.example.gdylan2.idiotwind_bloodontracks</item>
+        <item>com.example.gdylan2.youaregonnamakemelonesome</item>
+
+
+
+        <!--bobdylan-->
+        <item>com.example.gdylan2.bobdylan</item>
+        <item>com.example.gdylan2.houseofrisingsun</item>
+        <item>com.example.gdylan2.babyletmefollowyou</item>
+        <item>com.example.gdylan2.youarenogood</item>
+        <item>com.example.gdylan2.talkingnewyork</item>
+        <item>com.example.gdylan2.inmytimeofdying</item>
+        <item>com.example.gdylan2.manofcontantsorrow</item>
+        <item>com.example.gdylan2.fixingtodie</item>
+        <item>com.example.gdylan2.prettypeggy</item>
+        <item>com.example.gdylan2.highway51</item>
+        <item>com.example.gdylan2.gospelplow</item>
+        <item>com.example.gdylan2.freighttrainblues</item>
+        <item>com.example.gdylan2.songtowoody</item>
+        <item>com.example.gdylan2.seethatmygrave</item>
+
+
+        <!--bringing it all back-->
+        <item>com.example.gdylan2.bringingitallback</item>
+        <item>com.example.gdylan2.gatesofeden</item>
+        <item>com.example.gdylan2.itsallrightma</item>
+        <item>com.example.gdylan2.itsallovernowbaby</item>
+        <item>com.example.gdylan2.maggiesfarmbringingit</item>
+        <item>com.example.gdylan2.loveminuszero</item>
+        <item>com.example.gdylan2.outlawblues</item>
+        <item>com.example.gdylan2.ontheroadagain</item>
+        <item>com.example.gdylan2.bobdylansdream</item>
+        <item>com.example.gdylan2.mrtambourineman</item>
+        <item>com.example.gdylan2.subtarraneanhomesick</item>
+        <item>com.example.gdylan2.shebelongtome</item>
+
+
+<!--desire-->
+
+        <item>com.example.gdylan2.desire</item>
+        <item>com.example.gdylan2.isis</item>
+        <item>com.example.gdylan2.hurricane</item>
+        <item>com.example.gdylan2.mozambique</item>
+        <item>com.example.gdylan2.onemorecupofcoffee</item>
+        <item>com.example.gdylan2.joey</item>
+        <item>com.example.gdylan2.romanceindurango</item>
+        <item>com.example.gdylan2.blackdiamond</item>
+        <item>com.example.gdylan2.sara</item>
+        <item>com.example.gdylan2.ohsisterdesire</item>
+
+
+<!--freewheelin-->
+
+        <item>com.example.gdylan2.freewheelinbobdylan</item>
+        <item>com.example.gdylan2.talkingworldwarthree</item>
+        <item>com.example.gdylan2.corrinacorrina</item>
+        <item>com.example.gdylan2.honeyjustallowme</item>
+        <item>com.example.gdylan2.ishallbefreefreewheelin</item>
+        <item>com.example.gdylan2.blowinginthewind</item>
+        <item>com.example.gdylan2.girlfromnorthcountry</item>
+        <item>com.example.gdylan2.mastersofwar</item>
+        <item>com.example.gdylan2.downthehighway</item>
+        <item>com.example.gdylan2.bobdylansblues</item>
+        <item>com.example.gdylan2.ahardrainsgonnafall</item>
+        <item>com.example.gdylan2.dontthinktwiceitsallright</item>
+        <item>com.example.gdylan2.bobdylansdreamfreewheelin</item>
+        <item>com.example.gdylan2.oxfordtown</item>
+
+
+        <!--hardrain-->
+
+        <item>com.example.gdylan2.hardrain</item>
+        <item>com.example.gdylan2.ithrewitallaway</item>
+        <item>com.example.gdylan2.shelterfromthestorm</item>
+        <item>com.example.gdylan2.youareabigirlnow</item>
+        <item>com.example.gdylan2.idiotwind</item>
+        <item>com.example.gdylan2.onetoomanymorning</item>
+        <item>com.example.gdylan2.stuckmemphishardrain</item>
+        <item>com.example.gdylan2.ohsister</item>
+        <item>com.example.gdylan2.layladylay</item>
+        <item>com.example.gdylan2.maggiesfarm</item>
+
+
+<!--highway61-->
+        <item>com.example.gdylan2.highway61revisited</item>
+        <item>com.example.gdylan2.balladofathinman</item>
+        <item>com.example.gdylan2.highway61song</item>
+        <item>com.example.gdylan2.justlketomthumbs</item>
+        <item>com.example.gdylan2.desolationrow</item>
+        <item>com.example.gdylan2.likearollingstone</item>
+        <item>com.example.gdylan2.tombstoneblues</item>
+        <item>com.example.gdylan2.queenjaneapprox</item>
+        <item>com.example.gdylan2.fromabuick6</item>
+        <item>com.example.gdylan2.ittakesalottolaugh</item>
+
+
+<!--jhon wealy-->
+
+        <item>com.example.gdylan2.johnwesleyhardings</item>
+        <item>com.example.gdylan2.illbeyourbabytonight</item>
+        <item>com.example.gdylan2.johnwesleyhardingsong</item>
+        <item>com.example.gdylan2.thewickedmessenger</item>
+        <item>com.example.gdylan2.downalongthecove</item>
+        <item>com.example.gdylan2.driftersescape</item>
+        <item>com.example.gdylan2.allalongthewatchtower</item>
+        <item>com.example.gdylan2.theballadoffrankielee</item>
+        <item>com.example.gdylan2.dearlandlord</item>
+        <item>com.example.gdylan2.asiwentoutonemorning</item>
+        <item>com.example.gdylan2.idreamedisawstaugustine</item>
+        <item>com.example.gdylan2.ipitythepoorimmigrant</item>
+        <item>com.example.gdylan2.iamalonesomehobo</item>
+
+
+
+        <!--nashville skyline-->
+
+        <item>com.example.gdylan2.nashvilleskyline</item>
+        <item>com.example.gdylan2.girlfromthenorthcountry_nashville</item>
+        <item>com.example.gdylan2.nashvilleskylinerag</item>
+        <item>com.example.gdylan2.itthrewitallaway_nashville</item>
+        <item>com.example.gdylan2.tobealonewithyou</item>
+        <item>com.example.gdylan2.peggydays</item>
+        <item>com.example.gdylan2.onemorenight</item>
+        <item>com.example.gdylan2.tellmethatitisnttrue</item>
+        <item>com.example.gdylan2.countrypie</item>
+        <item>com.example.gdylan2.tonightillbestayinhere</item>
+        <item>com.example.gdylan2.layladylaynashville</item>
+
+<!--shotoflove-->
+        <item>com.example.gdylan2.shotoflove</item>
+        <item>com.example.gdylan2.thegroomstillwaiting</item>
+        <item>com.example.gdylan2.inthesummertime</item>
+        <item>com.example.gdylan2.trouble</item>
+        <item>com.example.gdylan2.everygrainofsand</item>
+        <item>com.example.gdylan2.shotoflovesong</item>
+        <item>com.example.gdylan2.heartofmine</item>
+        <item>com.example.gdylan2.propertyofjesus</item>
+        <item>com.example.gdylan2.lennybruce</item>
+        <item>com.example.gdylan2.watereddownlove</item>
+        <item>com.example.gdylan2.deadman</item>
+
+<!--slowtrain-->
+        <item>com.example.gdylan2.slowtrain</item>
+        <item>com.example.gdylan2.dorighttomebaby</item>
+        <item>com.example.gdylan2.whenyougonnawakeup</item>
+        <item>com.example.gdylan2.mangavenametoalltheanimal</item>
+        <item>com.example.gdylan2.whenhereturns</item>
+        <item>com.example.gdylan2.slowtrainsong</item>
+        <item>com.example.gdylan2.gonnachangemywayofthinking</item>
+        <item>com.example.gdylan2.preciousangel</item>
+        <item>com.example.gdylan2.ibelieveinyou</item>
+        <item>com.example.gdylan2.gottaservesomebody</item>
+        <item>com.example.gdylan2.gonchangemywayofthinkingalternate</item>
+
+
+        <!--streetlegal-->
+        <item>com.example.gdylan2.streetlegal</item>
+        <item>com.example.gdylan2.changingotheguard</item>
+        <item>com.example.gdylan2.newpony</item>
+        <item>com.example.gdylan2.notimetothink</item>
+        <item>com.example.gdylan2.babystopcrying</item>
+        <item>com.example.gdylan2.senor</item>
+        <item>com.example.gdylan2.isyourloveinvain</item>
+        <item>com.example.gdylan2.truelovetendstoforget</item>
+        <item>com.example.gdylan2.webettertalkthisover</item>
+        <item>com.example.gdylan2.whereareyoutonight</item>
+
+
+        <!--tempest-->
+        <item>com.example.gdylan2.tempest</item>
+        <item>com.example.gdylan2.scarlettown</item>
+        <item>com.example.gdylan2.earlyromankings</item>
+        <item>com.example.gdylan2.tinangel</item>
+        <item>com.example.gdylan2.tempestsong</item>
+        <item>com.example.gdylan2.rollonjohn</item>
+        <item>com.example.gdylan2.duquesnewhistle</item>
+        <item>com.example.gdylan2.soonaftermidnight</item>
+        <item>com.example.gdylan2.narrowway</item>
+        <item>com.example.gdylan2.longandwastedyears</item>
+        <item>com.example.gdylan2.payinblood</item>
+
+
+<!--timestheyarechaging-->
+        <item>com.example.gdylan2.thetimestheyarechanging</item>
+        <item>com.example.gdylan2.onetoomanymorning_timeschange</item>
+        <item>com.example.gdylan2.bootsofspanishleather</item>
+        <item>com.example.gdylan2.restlessfarewell</item>
+        <item>com.example.gdylan2.thelonesomedeathofhatti</item>
+        <item>com.example.gdylan2.balladofhollisbrown</item>
+        <item>com.example.gdylan2.whenthesipcomesin</item>
+        <item>com.example.gdylan2.northcountryblues</item>
+        <item>com.example.gdylan2.withgodonourside</item>
+        <item>com.example.gdylan2.thetimestheyarechangingsong</item>
+        <item>com.example.gdylan2.onlyapawnintheirgame</item>
+
+<!--newmorning-->
+        <item>com.example.gdylan2.newmorning</item>
+        <item>com.example.gdylan2.signonthewindow</item>
+        <item>com.example.gdylan2.onemoreweekend</item>
+        <item>com.example.gdylan2.themaninme</item>
+        <item>com.example.gdylan2.threeangels</item>
+        <item>com.example.gdylan2.fatherofthenight</item>
+        <item>com.example.gdylan2.dayofthelocust</item>
+        <item>com.example.gdylan2.ifdogsrunfree</item>
+        <item>com.example.gdylan2.ifnotforyou</item>
+        <item>com.example.gdylan2.newmorningsong</item>
+        <item>com.example.gdylan2.timepassesslowly</item>
+        <item>com.example.gdylan2.winterlude</item>
+        <item>com.example.gdylan2.wenttoseethegypsy</item>
+<!--saved-->
+
+        <item>com.example.gdylan2.saved</item>
+        <item>com.example.gdylan2.solidrock</item>
+        <item>com.example.gdylan2.pressingon</item>
+        <item>com.example.gdylan2.areyouready</item>
+        <item>com.example.gdylan2.savinggrace</item>
+        <item>com.example.gdylan2.inthegarden</item>
+        <item>com.example.gdylan2.asatsisfiedmind</item>
+        <item>com.example.gdylan2.covenantwomen</item>
+        <item>com.example.gdylan2.savedsong</item>
+        <item>com.example.gdylan2.whatcanidoforyou</item>
+
+        <!--timeoutofmind-->
+
+        <item>com.example.gdylan2.timeoutofmind</item>
+        <item>com.example.gdylan2.cantwait</item>
+        <item>com.example.gdylan2.makeyoufeelmylove</item>
+        <item>com.example.gdylan2.millionmiles</item>
+        <item>com.example.gdylan2.highlands</item>
+        <item>com.example.gdylan2.tillifellinlovewithyou</item>
+        <item>com.example.gdylan2.notdarkyet</item>
+        <item>com.example.gdylan2.coldironbounds</item>
+        <item>com.example.gdylan2.standinginthedoorway</item>
+        <item>com.example.gdylan2.tryintogettoheaven</item>
+        <item>com.example.gdylan2.dirtroadblues</item>
+        <item>com.example.gdylan2.lovesick</item>
+
+
+        <!--infedels-->
+
+        <item>com.example.gdylan2.infedels</item>
+        <item>com.example.gdylan2.jokerman</item>
+        <item>com.example.gdylan2.sweetheartlikeyou</item>
+        <item>com.example.gdylan2.neighborhoodbully</item>
+        <item>com.example.gdylan2.licensetokill</item>
+        <item>com.example.gdylan2.manofpeace</item>
+        <item>com.example.gdylan2.unionsundown</item>
+        <item>com.example.gdylan2.iandi</item>
+        <item>com.example.gdylan2.dontfallapartonme</item>
+
+
+<!--roughandrowdyways-->
+
+        <item>com.example.gdylan2.roughandrowdyways</item>
+        <item>com.example.gdylan2.icontainmultitudes</item>
+        <item>com.example.gdylan2.falseprophet</item>
+        <item>com.example.gdylan2.myownversionofyou</item>
+        <item>com.example.gdylan2.ivemadeupmymind</item>
+        <item>com.example.gdylan2.blackrider</item>
+        <item>com.example.gdylan2.goodbyejimmyreed</item>
+        <item>com.example.gdylan2.motherofmuses</item>
+        <item>com.example.gdylan2.crossingtherubicon</item>
+        <item>com.example.gdylan2.keywest</item>
+        <item>com.example.gdylan2.mudermostfoul</item>
+
+
+
+    </string-array>
+</resources>

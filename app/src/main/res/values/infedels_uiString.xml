@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="release_date_27_10_1983">Release Date: 27/10/1983</string>
+    <string name="album_name_infedels">Album Name: Infedels</string>
+    <string name="sweet_heart_like_you">sweet heart like you</string>
+    <string name="neighborhood_bully">neighborhood bully</string>
+    <string name="license_to_kill">license to kill</string>
+    <string name="man_of_peace">man of peace</string>
+    <string name="union_sundown">union sundown</string>
+    <string name="i_and_i">i and i</string>
+    <string name="don_t_fall_apart_on_me_tonight">don\'t fall apart on me tonight</string>
+    <string name="jokerman">jokerman</string>
+
+    <string name="jokerman_title">Jokerman</string>
+    <string name="sweetheart_like_you_tile">Sweetheart Like You</string>
+    <string name="neighborhood_bully_title">Neighborhood Bully</string>
+    <string name="license_to_kill_title">License To Kill</string>
+    <string name="man_of_peace_title">Man Of Peace</string>
+    <string name="union_sundown_title">Union Sundown</string>
+    <string name="i_and_i_title">I And I</string>
+    <string name="don_t_fall_apart_on_me_tonight_title">Don\'t Fall Apart On Me Tonight</string>
+
+
+</resources>

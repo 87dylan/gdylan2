@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="album_name_tempest">Album Name: Tempest</string>
+    <string name="release_date_10_09_2012">Release Date: 10/09/2012</string>
+    <string name="duquesne_whistle">duquesne whistle</string>
+    <string name="soon_after_midnight">soon after midnight</string>
+    <string name="narrow_way">narrow way</string>
+    <string name="long_and_washed_years">long and washed years</string>
+    <string name="pay_in_blood">pay in blood</string>
+    <string name="scarlet_town">scarlet town</string>
+    <string name="early_roman_kings">early roman kings</string>
+    <string name="tin_angel">tin angel</string>
+    <string name="tempest">tempest</string>
+    <string name="roll_on_john">roll on john</string>
+
+    <string name="scarlet_town_title">Scarlet Town</string>
+    <string name="early_roman_king_title">Early Roman King</string>
+    <string name="tin_angel_title">Tin Angel</string>
+    <string name="tempest_title">Tempest</string>
+    <string name="roll_on_john_title">Roll On John</string>
+    <string name="duquesne_whistle_title">Duquesne whistle</string>
+    <string name="soon_after_midnight_title">Soon After Midnight</string>
+    <string name="narrow_way_title">Narrow Way</string>
+    <string name="long_and_wasted_years_title">Long And Wasted Years</string>
+    <string name="pay_in_blood_title">Pay In Blood</string>
+
+
+</resources>

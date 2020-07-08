@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="album_name_shot_of_love">Album Name: Shot Of Love</string>
+    <string name="release_date_10_08_1981">Release Date: 10/08/1981</string>
+    <string name="shot_of_love">shot of love</string>
+    <string name="property_of_jesus">property of jesus</string>
+    <string name="lenny_bruce">lenny bruce</string>
+    <string name="watered_down_love">watered down love</string>
+    <string name="the_groom_s_still_waiting_at_the_alter">the groom\'s still waiting at the alter</string>
+    <string name="dead_man_dead_man">dead man, dead man</string>
+    <string name="in_the_summer_time">in the summer time</string>
+    <string name="trouble">trouble</string>
+    <string name="heart_of_mine">Heart Of Mine</string>
+    <string name="every_grain_of_sand">every grain of sand</string>
+
+    <string name="the_groom_s_still_waiting_at_the_alter_title">The Groom\'s Still Waiting At The Alter</string>
+    <string name="in_the_summertime_title">In The Summertime</string>
+    <string name="trouble_title">Trouble</string>
+    <string name="every_grain_of_sand_title">Every Grain Of Sand</string>
+    <string name="shot_of_love_title">Shot Of Love</string>
+    <string name="heart_of_mine_title">Heart Of Mine</string>
+    <string name="property_of_jesus_title">Property Of Jesus</string>
+    <string name="lenny_bruce_title">Lenny Bruce</string>
+    <string name="watered_down_love_title">Watered-Down Love</string>
+    <string name="dead_man_dead_man_title">Dead man, Dead man</string>
+
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="album_name_the_times_they_are_a_changing">Album Name: The Times They Are A-Changing</string>
+    <string name="ballad_of_hollis_brown">ballad of hollis brown</string>
+    <string name="with_god_on_our_side">with god on our side</string>
+    <string name="north_country_blues">north country blues</string>
+    <string name="only_a_pawn_in_their_game">only a pawn in their game</string>
+    <string name="boots_of_spanish_leather">boots of spanish leather</string>
+    <string name="when_the_ship_comes_in">when the ship comes in</string>
+    <string name="the_lonesome_death_of_hattie_carroll">the lonesome death of hattie carroll</string>
+    <string name="restless_farewell">restless farewell</string>
+    <string name="release_date_13_01_1964">Release Date: 13/01/1964</string>
+    <string name="one_too_many_mornings_timeschanign">One Too Many Mornings</string>
+
+
+    <string name="one_too_many_mornings_timeschangin_title">One Too Many Mornings</string>
+    <string name="boots_of_spanish_leather_title">Boots Of Spanish Leather</string>
+    <string name="restless_farewell_title">Restless Farewell</string>
+    <string name="the_lonesome_death_of_hattie_carroll_title">The Lonesome Death Of Hattie Carroll</string>
+    <string name="ballad_of_hollis_brown_title">Ballad Of Hollis Brown</string>
+    <string name="when_the_ships_comes_in_title">When the Ships Comes in</string>
+    <string name="north_country_blues_title">North country Blues</string>
+    <string name="with_god_on_our_side_title">With God On Our Side</string>
+    <string name="the_times_they_are_a_changing_title">The Times They Are A-changing</string>
+    <string name="only_a_pawn_in_their_game_title">Only A Pawn In Their Game</string>
+
+
+
+
+</resources>

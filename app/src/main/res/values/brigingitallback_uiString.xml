@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subterranean_homesick_blue">subterranean homesick blue</string>
+    <string name="she_belong_to_me">she belong to me</string>
+    <string name="maggies_farm">maggies farm</string>
+    <string name="love_minus_zero_no_limit">love minus zero/no limit</string>
+    <string name="outlaw_blues">outlaw blues</string>
+    <string name="on_the_road_again">on the road again</string>
+    <string name="bob_dylan_s_115th_dream">bob dylan\'s 115th dream</string>
+    <string name="mr_tambourine_man">mr.tambourine man</string>
+    <string name="gates_of_eden">gates of eden</string>
+    <string name="it_s_alright_ma_i_am_only_bleeding">it\'s alright , ma(i am only bleeding)</string>
+    <string name="it_s_all_over_now_baby_blue">it\'s all over now , baby blue</string>
+    <string name="album_name_bringing_it_all_back">Album Name: Bringing It All Back</string>
+
+    <string name="gates_of_eden_title">Gates Of Eden</string>
+    <string name="its_alright_ma_title">Its Alright , Ma</string>
+    <string name="its_all_over_now_baby_blue_title">Its All Over Now Baby Blue</string>
+    <string name="maggie_farm_title">Maggie Farm</string>
+    <string name="love_minus_zero_title">Love Minus Zero</string>
+    <string name="outlaw_blues_title">Outlaw Blues</string>
+    <string name="on_the_road_again_title">On The Road Again</string>
+    <string name="bob_dylan_s_115th_dream_title">Bob Dylan\'s 115th Dream</string>
+    <string name="mr_tambourine_man_title">Mr.Tambourine Man</string>
+    <string name="subterranean_homesick_blue_title">Subterranean Homesick Blue</string>
+    <string name="she_belong_to_me_title">She Belong To Me</string>
+
+
+
+</resources>

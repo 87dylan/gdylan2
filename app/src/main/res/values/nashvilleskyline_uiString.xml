@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="album_name_nashville_skyline">Album Name: Nashville Skyline</string>
+    <string name="release_date_9_04_1969">Release Date:9/04/1969</string>
+    <string name="girl_from_the_north_country_nashville">girl from the north country</string>
+    <string name="nashville_skyline_rag">nashville skyline rag</string>
+    <string name="to_be_alone_with_you">to be alone with you</string>
+    <string name="i_threw_it_all_away_nashville">i threw it all away</string>
+    <string name="peggy_days">peggy days</string>
+    <string name="tell_me_that_it_isn_t_true">tell me that it isn\'t true</string>
+    <string name="country_pie">country pie</string>
+    <string name="tonight_i_ll_be_staying_here_with_you">tonight i\'ll be staying here with you</string>
+    <string name="lay_lady_lay_nashville">lay lady lay</string>
+    <string name="one_more_night">one more night</string>
+
+    <string name="girl_from_the_north_country__nashville_title">Girl From The North Country</string>
+    <string name="nashville_skyline_rag_title">Nashville Skyline Rag</string>
+    <string name="i_threw_it_all_away_nashville_title">I Threw It All Away</string>
+    <string name="to_be_alone_with_you_title">To Be Alone With You</string>
+    <string name="peggy_days_title">Peggy Days</string>
+    <string name="one_more_night_title">One More Night</string>
+    <string name="tell_me_that_it_isn_t_true_title">Tell Me That It Isn\'t True</string>
+    <string name="country_pie_title">Country Pie</string>
+    <string name="tonight_i_will_be_staying_here_with_you_title">Tonight I Will Be Staying Here With You</string>
+    <string name="lay_lady_lay_nashville_title">Lay Lady Lay</string>
+
+
+</resources>
